@@ -13,11 +13,11 @@ This repository documents the analysis code and macrodata from a population-base
 
 ## Repository Contents
 
-| File/Folder                                 | Description                                                                 |
-|--------------------------------------------|-----------------------------------------------------------------------------|
-| `health_mistrust_sleep_macrodata_cleaned.xlsx` | Non-sensitive macrodata used for analyses (Tables 1–6); includes mistrust index, sleep quality (B-PSQI), preventive behaviors, and covariates |
-| `*.py` files                                | Python scripts for data preprocessing, regression analysis, mediation models, and plotting |
-| `*.xlsx` files                              | Output tables and regression results as used in the manuscript             |
+| File/Folder                        | Description                                                                 |
+|-----------------------------------|-----------------------------------------------------------------------------|
+| `data/health_mistrust_sleep_macrodata_cleaned.xlsx` | Non-sensitive macrodata used for analyses (Tables 1–6); includes mistrust index, sleep quality (B-PSQI), preventive behaviors, and covariates |
+| `script/*.py`                     | Python scripts for data preprocessing, regression analysis, mediation models, and plotting |
+| `README.md`                       | Overview of the project, dataset, and analysis goals                        |
 
 ## Data Use and Copyright
 
